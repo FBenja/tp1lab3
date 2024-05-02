@@ -19,8 +19,9 @@ span {
 }
 
 #icons {
-    position:static;
-    bottom: 40px;
+    position:relative;
+    left:500px;
+    bottom: 200px;
     width: 170px;   
     background: transparent;
     display: flex;
@@ -50,8 +51,9 @@ span {
 }
 
 .robot {
-    display: flex;
-    justify-content:right;
+    position: relative;
+    left:700px;
+    top: -300px;
 }
 .robotito {
     width: 500px;
