@@ -60,3 +60,16 @@ span {
     border: transparent;
     border-radius: 25%;
 }
+footer {
+    position:relative;
+    bottom: 200px;
+    background-color: #3f6072;
+    height:50px;
+}
+footer button {
+    color: #030106;
+    position: relative;
+    left: 570px;
+    background-color: #3f6072;
+    font-size: 35px;
+}
