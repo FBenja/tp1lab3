@@ -44,17 +44,18 @@ span {
 #listas {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    padding: 50px;
+    padding: 10px;
     margin: 1%;
     color: cornflowerblue;
 }
 
 .robot {
     display: flex;
-    justify-content: end;
+    justify-content:right;
+    position:-webkit-sticky;
 }
-
 .robotito {
     width: 500px;
-   
+    border: transparent;
+    border-radius: 25%;
 }
