@@ -7,7 +7,7 @@ h1 {
     text-align: center;  
     margin: 1%;
 }
-p {
+h3 {
     color: cornflowerblue;
 }
 
@@ -50,5 +50,11 @@ span {
 }
 
 .robot {
-    text-align: right;
+    display: flex;
+    justify-content: end;
+}
+
+.robotito {
+    width: 500px;
+   
 }
